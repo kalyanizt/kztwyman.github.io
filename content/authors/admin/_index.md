@@ -72,12 +72,11 @@ work:
     company_logo: ''
     date_start: ''
     date_end: ''
-    summary:|
-      ''
+    summary: ''
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:''
+skills: ''
 
 languages:
   - name: English
