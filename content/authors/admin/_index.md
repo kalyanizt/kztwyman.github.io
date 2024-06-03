@@ -72,7 +72,8 @@ work:
     company_logo: ''
     date_start: ''
     date_end: ''
-    summary:''
+    summary:|
+      ''
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -90,6 +91,7 @@ awards:
   - title: ''
     date: ''
     awarder: ''
+---
 
 ## About Me
 
