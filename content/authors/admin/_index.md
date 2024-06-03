@@ -6,8 +6,12 @@ title: Kalyani Z. Twyman
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Kalyani
+last_name: Twyman
+
+# Status emoji
+status:
+  icon: ''
 
 # Is this the primary user of the site?
 superuser: true
@@ -61,6 +65,31 @@ education:
     date_end: 2020-05-01
     summary: |
       GPA: 3.95/4.0
+work:
+  - position: ''
+    company_name: ''
+    company_url: ''
+    company_logo: ''
+    date_start: ''
+    date_end: ''
+    summary:''
+
+# Skills
+# Add your own SVG icons to `assets/media/icons/`
+skills:''
+
+languages:
+  - name: English
+    percent: 100
+  - name: German
+    percent: 80
+  - name: Spanish
+    percent: 40
+
+awards:
+  - title: ''
+    date: ''
+    awarder: ''
 
 ## About Me
 
